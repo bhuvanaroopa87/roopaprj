@@ -1,0 +1,16 @@
+{
+  "name": "roopaprj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roopa Vadapalli",
+  "license": "ISC",
+  "dependencies": {
+    "komalecom": "^1.0.3",
+    "shiva_project": "^1.0.0",
+    "ushaprj": "^1.0.0"
+  }
+}
